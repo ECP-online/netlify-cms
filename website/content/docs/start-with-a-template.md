@@ -1,7 +1,7 @@
 ---
 title: Start with a Template
 group: start
-weight: 10
+weight: 14
 ---
 You can add Netlify CMS [to an existing site](/docs/add-to-your-site/), but the quickest way to get started is with a template.  Found below, our featured templates deploy a bare-bones site and Netlify CMS to Netlify ([what's the difference, you ask?](../intro/#netlify-cms-vs-netlify)), giving you a fully working CMS-enabled site with just a few clicks.
 
@@ -36,7 +36,7 @@ You can add Netlify CMS [to an existing site](/docs/add-to-your-site/), but the 
     </div>
 </div>
 
-After clicking one of those buttons, authenticate with GitHub or GitLab and choose a repository name. Netlify then automatically creates a clone of the repository in your GitHub or GitLab account. Next, it builds and deploys the new site on Netlify, bringing you to the site dashboard after completing the build.
+Автор эцп торги clicking one of those buttons, authenticate with GitHub or GitLab and choose a repository name. Netlify then automatically creates a clone of the repository in your GitHub or GitLab account. Next, it builds and deploys the new site on Netlify, bringing you to the site dashboard after completing the build.
 
 **Note for Bitbucket users:** Netlify CMS supports Bitbucket repositories, but Bitbucket's permissions won't work with the Deploy to Netlify buttons above. You can still set up a repository manually, or follow the [tutorial](/docs/add-to-your-site) for adding Netlify CMS to an existing site.
 
